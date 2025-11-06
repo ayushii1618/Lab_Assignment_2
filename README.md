@@ -1,4 +1,4 @@
-📘 Python Code Assignment
+# Lab_Assignment_2
 
 This Python assignment 📂 covers a wide range of basic to intermediate programming concepts. It includes working with data structures like lists, tuples, and dictionaries 📊, and also focuses on operations such as finding duplicates, reversing data, filtering values, and modifying collections. The assignment includes practical file handling tasks 📄 like reading a text file, overwriting its contents, counting characters, and printing lines in reverse order. Programs like generating the Fibonacci series 🧮 and finding anagrams 🔀 are also included to build logical and algorithmic thinking.
 
